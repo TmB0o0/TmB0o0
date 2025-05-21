@@ -14,4 +14,5 @@ and **blockchain node setups**.
 
 ## 📬 Connect with me  
 💾 NodeSetup Hub | 
-📢 [Twitter/X](https://x.com/TmBO0o) | 💾 **NodeSetup Hub:** https://tmb.gitbook.io/nodeguidebook/ |  ✉️ [Telegram](https://t.me/@Phamqur) | 📩 **Email:** tmb_phamqur@yahoo.com  
+📢 [Twitter/X](https://x.com/TmBO0o) | 💾 **NodeSetup Hub:** https://tmb.gitbook.io/nodeguidebook/ |  ✉️ [Telegram](https://t.me/@Phamqur) 
+📩 **Email:** tmb_phamqur@yahoo.com  
