@@ -13,4 +13,5 @@ Here, you’ll find my **projects, experiments, and tools** 🛠️—scripts fo
 and **blockchain node setups**.  
 
 ## 📬 Connect with me  
-📢 [Twitter/X](https://x.com/TmBO0o) | ✉️ [Telegram](https://t.me/@Phamqur) | 📩 **Email:** tmb_phamqur@yahoo.com  
+💾 NodeSetup Hub | 
+📢 [Twitter/X](https://x.com/TmBO0o) | 💾 **NodeSetup Hub:** https://tmb.gitbook.io/nodeguidebook/ |  ✉️ [Telegram](https://t.me/@Phamqur) | 📩 **Email:** tmb_phamqur@yahoo.com  
